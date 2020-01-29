@@ -17,4 +17,7 @@ This program does not simply count the score of each player. It also is able to:
 - if the prediction was made via Google Forms, it can also send the player an email with the score the he got and his position on the table.
 
 ## Installation
+
+```shell
 pip install -r requirements.txt
+```
