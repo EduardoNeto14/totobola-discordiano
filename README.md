@@ -6,7 +6,7 @@ Each player is asked to guess the results of a number of games and, depending on
 
 Also, in each round, the player has the option of using the so-called JOKER(*), which will double his score in a game of its choice (a priori).
 
-##Functionality
+## Functionality
 
 This program does not simply count the score of each player. It also is able to:
 - format the data in a .csv file in a way that the program can understand;
@@ -15,5 +15,5 @@ This program does not simply count the score of each player. It also is able to:
 - update a local database containing every round of predictions made.
 - update Google Sheets with the new total scores.
 
-##Installation
+## Installation
 pip install -r requirements.txt
