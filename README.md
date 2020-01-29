@@ -14,6 +14,7 @@ This program does not simply count the score of each player. It also is able to:
 - update a local database containing the total scores of different competitions;
 - update a local database containing every round of predictions made.
 - update Google Sheets with the new total scores.
+- if the prediction was made via Google Forms, it can also send the player an email with the score the he got and his position on the table.
 
 ## Installation
 pip install -r requirements.txt
